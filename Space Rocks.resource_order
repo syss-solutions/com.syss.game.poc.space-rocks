@@ -1,0 +1,26 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Conjuntos de casillas","order":1,"path":"folders/Conjuntos de casillas.yy",},
+    {"name":"Sonidos","order":2,"path":"folders/Sonidos.yy",},
+    {"name":"Rutas","order":3,"path":"folders/Rutas.yy",},
+    {"name":"Scripts","order":4,"path":"folders/Scripts.yy",},
+    {"name":"Shaders","order":5,"path":"folders/Shaders.yy",},
+    {"name":"Fuentes","order":6,"path":"folders/Fuentes.yy",},
+    {"name":"Líneas temporales","order":7,"path":"folders/Líneas temporales.yy",},
+    {"name":"Objetos","order":8,"path":"folders/Objetos.yy",},
+    {"name":"Salas","order":9,"path":"folders/Salas.yy",},
+    {"name":"Secuencias","order":10,"path":"folders/Secuencias.yy",},
+    {"name":"Curvas de animación","order":11,"path":"folders/Curvas de animación.yy",},
+    {"name":"Notas","order":12,"path":"folders/Notas.yy",},
+    {"name":"Extensiones","order":13,"path":"folders/Extensiones.yy",},
+    {"name":"Particle Systems","order":14,"path":"folders/Particle Systems.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"obj_game","order":3,"path":"objects/obj_game/obj_game.yy",},
+    {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"spr_rock_big","order":2,"path":"sprites/spr_rock_big/spr_rock_big.yy",},
+    {"name":"obj_bullet","order":1,"path":"objects/obj_bullet/obj_bullet.yy",},
+    {"name":"obj_rock","order":2,"path":"objects/obj_rock/obj_rock.yy",},
+    {"name":"spr_rock_small","order":3,"path":"sprites/spr_rock_small/spr_rock_small.yy",},
+  ],
+}
